@@ -10,7 +10,7 @@ My name is Eleanor, and I'm an online Health Data Science student at the Univers
 
 <img src="IMG_2759.jpeg" alt="Correlation Heatmap" width="200"/>
 
-- 🎹 My hobbies include reading, playing piano, crocheting and playing on my VR headset!
+- 🎹 My hobbies include running, reading, playing piano, crocheting and playing on my VR headset!
 
 <img src="View recent photos.png" alt="Correlation Heatmap" width="150"/> <img src="IMG_7358.jpeg" alt="Correlation Heatmap" width="150"/><img src="crochet.png" alt="Correlation Heatmap" width="150"/> <img src="View recent photos-1.png" alt="Correlation Heatmap" width="150"/> 
 
